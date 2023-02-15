@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @troy-em
-- 👀 I’m interested in python, django, javascript and the MERN stack
+- 👀 I’m interested in the MERN Stack, Python, Django, Js, PHP, Angular
 - 🌱 I’m currently learning go language
-- 💞️ I’m looking to collaborate in any cool stuff
+- 💞️ I’m looking to collaborate in any cool projects
 - 📫 How to reach me => muiae4@gmail.com
 
 <!---
