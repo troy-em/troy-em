@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @troy-em
-- 👀 I’m interested in the MERN Stack, Python, Django, Js, PHP, Angular
+- 👀 I’m interested in the MERN Stack, Python & DevOps
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate in any cool projects
 - 📫 How to reach me => muiae4@gmail.com
